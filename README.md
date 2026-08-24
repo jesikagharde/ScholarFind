@@ -50,7 +50,7 @@ Choose **Option A** or **Option B**:
 #### Option A (Recommended — Desktop Symlink):
 If your folder is on your Desktop, open Windows PowerShell as Administrator and run:
 
-```powershell
+```powershell```
 New-Item -ItemType SymbolicLink -Path "C:\xampp\htdocs\ScholarFind" -Target "$HOME\Desktop\ScholarFind"
 Option B (Direct Copy):
 
