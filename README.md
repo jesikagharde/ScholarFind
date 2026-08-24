@@ -74,11 +74,3 @@ Admin	admin@scholarship.com	admin123
 Open Visual Studio Code.
 Go to File ➔ Open Folder... and select the ScholarFind folder.
 You can edit any HTML, CSS, JavaScript, or PHP file directly!
-
-The only changes are:
-
-- `scholarship-finder` → `ScholarFind`
-- `C:\xampp\htdocs\scholarship-finder` → `C:\xampp\htdocs\ScholarFind`
-- `http://localhost/scholarship-finder` → `http://localhost/ScholarFind`
-
-Everything else is untouched 🫡✨
